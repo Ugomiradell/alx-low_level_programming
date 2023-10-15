@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 /**
   * main - the main printing funtion
   * less than 4000000.
@@ -25,3 +24,4 @@ int main(void)
 	printf("%ld", sum);
 	return (0);
 }
+
